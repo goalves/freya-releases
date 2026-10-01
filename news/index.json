@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "2026-10-02-the-beginning-of-a-new-journey",
+      "title": "The beginning of a new journey",
+      "date": "2026-10-02",
+      "category": "news",
+      "summary": "Welcome to Freya. News about the world will show up here.",
+      "file": "2026-10-02-the-beginning-of-a-new-journey.md"
+    }
+  ]
+}
